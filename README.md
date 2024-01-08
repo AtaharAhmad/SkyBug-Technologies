@@ -1,2 +1,2 @@
 # SkyBug-Technologies
-1st task completed!
+All task has been completed.
